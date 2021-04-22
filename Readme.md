@@ -11,6 +11,7 @@
 <!-- default file list end -->
 # How to implement CRUD operations using DXGrid and eXpress Persistent Objects
 
+Refer to the latest example that illustrates how to implement CRUD operations in a data-bound [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl): [https://github.com/DevExpress-Examples/how-to-implement-crud-operations](https://github.com/DevExpress-Examples/how-to-implement-crud-operations).
 
 <p>This example shows how to use XPInstantFeedbackSource or XPServerCollectionSource with DXGrid, and how to implement CRUD operations (e.g., add, remove, edit) in your application via special behavior.</p>
 <p>The test sample requires the SQL Express service and MSAccess to be installed on your machine.</p>
